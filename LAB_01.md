@@ -1,9 +1,8 @@
 # Набор требований и комментариев к ЛР1
 
 ## Требования
-```c++
-printf("rules wrote by @coma8765, reviewed by @val3rkq, @RanobeDude 🍰");
-```
+> rules wrote by [@coma8765](https://github.com/coma8765), reviewed by [@val3rkq](https://github.com/val3rkq), [@RanobeDude](https://github.com/RanobeDude) 🍰;
+
 
 #### В *структурном* программировании:
 1. Не дублировать код;
